@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://drive.google.com/open?id=1znhXwYjgJ7meDnurf8Z1wRZmKh40Jy-2'
+export_file_url = 'https://www.dropbox.com/s/1upykt7yo2r8mj0/export.pkl?dl=0'
 export_file_name = 'export.pkl'
 
 classes = ['abstract','animals','artsArchitechure',
